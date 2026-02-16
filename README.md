@@ -97,4 +97,4 @@ A list of past Hono Conferences can be found here:
 
 - [PAST_CONFERENCES.md](./PAST_CONFERENCES.md)
 
-If you would like your conference to be listed, please send a Pull Request to this repository with information about the number of participants, location, content, and organizers.
+If you would like your conference to be listed, please send a Pull Request to this repository with information about the date, location, number of participants, and lead organizer.
